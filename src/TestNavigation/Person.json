@@ -1,0 +1,62 @@
+{
+    "Person": [
+    {
+        "fname":"arun",
+        "lname":"B.P",
+        "age":23 ,
+        "phonenumber":"9632951787",
+        "state":"karnataka",
+        "place":"kadur",
+        "DOB":"april 1 1994"
+    },
+{
+    "fname":"swamy",
+        "lname":"MSS",
+        "age":25 ,
+        "phonenumber":"9972421973",
+        "state":"karnataka",
+        "place":"garje",
+        "DOB":"jan 1 1994"
+},
+{
+    "fname":"anil",
+        "lname":"P katte",
+        "age":23 ,
+        "phonenumber":"96355555555",
+        "state":"karnataka",
+        "place":"bangalore",
+        "DOB":"april 1 1994"
+},
+{
+    "fname":"kiran",
+        "lname":"kumar",
+        "age":25 ,
+        "phonenumber":"9972421973",
+        "state":"keral",
+        "place":"garje",
+        "DOB":"jan 1 1994"
+},
+{
+    "fname":"Hemu",
+        "lname":"G.M",
+        "age":25 ,
+        "phonenumber":"9972421973",
+        "state":"karnataka",
+        "place":"bangalore",
+        "DOB":"jan 1 1994"
+},
+{
+    "fname":"yashu",
+        "lname":"Rock star",
+        "age":22 ,
+        "phonenumber":"9972421973",
+        "state":"karnataka",
+        "place":"Tiptur",
+        "DOB":"jan 1 1997"
+}
+
+]
+   
+
+        
+}
